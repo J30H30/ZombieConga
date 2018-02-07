@@ -1,7 +1,4 @@
 //
-//  GameOverScene.swift
-//  ZombieConga
-//
 //  Created by Joe Harasz on 12/13/17.
 //  Copyright © 2017 JJH. All rights reserved.
 //

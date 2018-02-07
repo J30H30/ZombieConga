@@ -1,7 +1,4 @@
 //
-//  MainMenuScene.swift
-//  ZombieConga
-//
 //  Created by Joe Harasz on 2/6/18.
 //  Copyright © 2018 JJH. All rights reserved.
 //

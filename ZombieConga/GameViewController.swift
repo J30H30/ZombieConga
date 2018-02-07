@@ -1,7 +1,4 @@
 //
-//  GameViewController.swift
-//  ZombieConga
-//
 //  Created by Joe Harasz on 11/6/17.
 //  Copyright © 2017 JJH. All rights reserved.
 //
